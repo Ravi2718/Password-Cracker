@@ -14,7 +14,7 @@ The script intelligently prompts the user to choose a mode, reads passwords from
   - Simulate password entry for other systems.
 - **Custom Password Lists:** Reads passwords from an external file (`pass.txt`).
 - **Real-Time Feedback:** Displays the current password being tested in the terminal.
-- **Key Control:**
+- **Key Control:** 
   - Press `Enter` to start cracking.
   - Press `Esc` to stop the process anytime.
 - **Auto-Cleanup:** Deletes entered text after each attempt in non-ZIP mode.
